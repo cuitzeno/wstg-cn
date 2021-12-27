@@ -1,56 +1,56 @@
 # Table of Contents
 
-## 0. [Foreword by Eoin Keary](0-Foreword/README.md)
+## 0. [前序 Eoin Keary](0-Foreword/README.md)
 
-## 1. [Frontispiece](1-Frontispiece/)
+## 1. [序](1-Frontispiece/)
 
-## 2. [Introduction](2-Introduction/)
+## 2. [简介](2-Introduction/)
 
-### 2.1 [The OWASP Testing Project](2-Introduction/README.md#The-OWASP-Testing-Project)
+### 2.1 [OWASP 测试项目](2-Introduction/README.md#The-OWASP-Testing-Project)
 
-### 2.2 [Principles of Testing](2-Introduction/README.md#Principles-of-Testing)
+### 2.2 [测试原则](2-Introduction/README.md#Principles-of-Testing)
 
-### 2.3 [Testing Techniques Explained](2-Introduction/README.md#Testing-Techniques-Explained)
+### 2.3 [测试技术详解](2-Introduction/README.md#Testing-Techniques-Explained)
 
-### 2.4 [Manual Inspections and Reviews](2-Introduction/README.md#Manual-Inspections-and-Reviews)
+### 2.4 [人工检查及复查](2-Introduction/README.md#Manual-Inspections-and-Reviews)
 
-### 2.5 [Threat Modeling](2-Introduction/README.md#Threat-Modeling)
+### 2.5 [威胁建模](2-Introduction/README.md#Threat-Modeling)
 
-### 2.6 [Source Code Review](2-Introduction/README.md#Source-Code-Review)
+### 2.6 [代码复查](2-Introduction/README.md#Source-Code-Review)
 
-### 2.7 [Penetration Testing](2-Introduction/README.md#Penetration-Testing)
+### 2.7 [渗透测试](2-Introduction/README.md#Penetration-Testing)
 
-### 2.8 [The Need for a Balanced Approach](2-Introduction/README.md#The-Need-for-a-Balanced-Approach)
+### 2.8 [方法平衡的需求](2-Introduction/README.md#The-Need-for-a-Balanced-Approach)
 
-### 2.9 [Deriving Security Test Requirements](2-Introduction/README.md#Deriving-Security-Test-Requirements)
+### 2.9 [安全需求测试推导](2-Introduction/README.md#Deriving-Security-Test-Requirements)
 
-### 2.10 [Security Tests Integrated in Development and Testing Workflows](2-Introduction/README.md#Security-Tests-Integrated-in-Development-and-Testing-Workflows)
+### 2.10 [安全测试集成于开发者与测试者工作流](2-Introduction/README.md#Security-Tests-Integrated-in-Development-and-Testing-Workflows)
 
-### 2.11 [Security Test Data Analysis and Reporting](2-Introduction/README.md#Security-Test-Data-Analysis-and-Reporting)
+### 2.11 [安全测试数据分析和报告](2-Introduction/README.md#Security-Test-Data-Analysis-and-Reporting)
 
-## 3. [The OWASP Testing Framework](3-The_OWASP_Testing_Framework/)
+## 3. [OWASP测试框架](3-The_OWASP_Testing_Framework/)
 
-### 3.1 [The Web Security Testing Framework](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md)
+### 3.1 [网络安全测试框架](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md)
 
-### 3.2 [Phase 1 Before Development Begins](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-1-Before-Development-Begins)
+### 3.2 [第1阶段：开发开始前阶段](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-1-Before-Development-Begins)
 
-### 3.3 [Phase 2 During Definition and Design](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-2-During-Definition-and-Design)
+### 3.3 [第2阶段：定义与设计阶段](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-2-During-Definition-and-Design)
 
-### 3.4 [Phase 3 During Development](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-3-During-Development)
+### 3.4 [第3阶段：开发阶段](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-3-During-Development)
 
-### 3.5 [Phase 4 During Deployment](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-4-During-Deployment)
+### 3.5 [第4阶段：部署阶段](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-4-During-Deployment)
 
-### 3.6 [Phase 5 During Maintenance and Operations](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-5-During-Maintenance-and-Operations)
+### 3.6 [第5阶段：运维阶段](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#Phase-5-During-Maintenance-and-Operations)
 
-### 3.7 [A Typical SDLC Testing Workflow](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#A-Typical-SDLC-Testing-Workflow)
+### 3.7 [典型的SDLC测试工作流](3-The_OWASP_Testing_Framework/0-The_Web_Security_Testing_Framework.md#A-Typical-SDLC-Testing-Workflow)
 
-### 3.8 [Penetration Testing Methodologies](3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies.md)
+### 3.8 [渗透测试方法论](3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies.md)
 
-## 4. [Web Application Security Testing](4-Web_Application_Security_Testing/)
+## 4. [WEB应用安全测试](4-Web_Application_Security_Testing/)
 
-### 4.0 [Introduction and Objectives](4-Web_Application_Security_Testing/00-Introduction_and_Objectives/README.md)
+### 4.0 [简介与目标](4-Web_Application_Security_Testing/00-Introduction_and_Objectives/README.md)
 
-### 4.1 [Information Gathering](4-Web_Application_Security_Testing/01-Information_Gathering/README.md)
+### 4.1 [信息收集](4-Web_Application_Security_Testing/01-Information_Gathering/README.md)
 
 #### 4.1.1 [Conduct Search Engine Discovery Reconnaissance for Information Leakage](4-Web_Application_Security_Testing/01-Information_Gathering/01-Conduct_Search_Engine_Discovery_Reconnaissance_for_Information_Leakage.md)
 
@@ -98,7 +98,7 @@
 
 #### 4.2.12 [Test for Content Security Policy](4-Web_Application_Security_Testing/02-Configuration_and_Deployment_Management_Testing/12-Test_for_Content_Security_Policy.md)
 
-### 4.3 [Identity Management Testing](4-Web_Application_Security_Testing/03-Identity_Management_Testing/README.md)
+### 4.3 [身份鉴别管理测试](4-Web_Application_Security_Testing/03-Identity_Management_Testing/README.md)
 
 #### 4.3.1 [Test Role Definitions](4-Web_Application_Security_Testing/03-Identity_Management_Testing/01-Test_Role_Definitions.md)
 
@@ -110,7 +110,7 @@
 
 #### 4.3.5 [Testing for Weak or Unenforced Username Policy](4-Web_Application_Security_Testing/03-Identity_Management_Testing/05-Testing_for_Weak_or_Unenforced_Username_Policy.md)
 
-### 4.4 [Authentication Testing](4-Web_Application_Security_Testing/04-Authentication_Testing/README.md)
+### 4.4 [认证测试](4-Web_Application_Security_Testing/04-Authentication_Testing/README.md)
 
 #### 4.4.1 [Testing for Credentials Transported over an Encrypted Channel](4-Web_Application_Security_Testing/04-Authentication_Testing/01-Testing_for_Credentials_Transported_over_an_Encrypted_Channel.md)
 
@@ -132,7 +132,7 @@
 
 #### 4.4.10 [Testing for Weaker Authentication in Alternative Channel](4-Web_Application_Security_Testing/04-Authentication_Testing/10-Testing_for_Weaker_Authentication_in_Alternative_Channel.md)
 
-### 4.5 [Authorization Testing](4-Web_Application_Security_Testing/05-Authorization_Testing/README.md)
+### 4.5 [授权测试](4-Web_Application_Security_Testing/05-Authorization_Testing/README.md)
 
 #### 4.5.1 [Testing Directory Traversal File Include](4-Web_Application_Security_Testing/05-Authorization_Testing/01-Testing_Directory_Traversal_File_Include.md)
 
@@ -142,7 +142,7 @@
 
 #### 4.5.4 [Testing for Insecure Direct Object References](4-Web_Application_Security_Testing/05-Authorization_Testing/04-Testing_for_Insecure_Direct_Object_References.md)
 
-### 4.6 [Session Management Testing](4-Web_Application_Security_Testing/06-Session_Management_Testing/README.md)
+### 4.6 [会话管理测试](4-Web_Application_Security_Testing/06-Session_Management_Testing/README.md)
 
 #### 4.6.1 [Testing for Session Management Schema](4-Web_Application_Security_Testing/06-Session_Management_Testing/01-Testing_for_Session_Management_Schema.md)
 
@@ -164,7 +164,7 @@
 
 #### 4.6.10 [Testing JSON Web Tokens](4-Web_Application_Security_Testing/06-Session_Management_Testing/10-Testing_JSON_Web_Tokens.md)
 
-### 4.7 [Input Validation Testing](4-Web_Application_Security_Testing/07-Input_Validation_Testing/README.md)
+### 4.7 [输入验证测试](4-Web_Application_Security_Testing/07-Input_Validation_Testing/README.md)
 
 #### 4.7.1 [Testing for Reflected Cross Site Scripting](4-Web_Application_Security_Testing/07-Input_Validation_Testing/01-Testing_for_Reflected_Cross_Site_Scripting.md)
 
@@ -224,13 +224,13 @@
 
 #### 4.7.20 [Testing for Mass Assignment](4-Web_Application_Security_Testing/07-Input_Validation_Testing/20-Testing_for_Mass_Assignment.md)
 
-### 4.8 [Testing for Error Handling](4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/README.md)
+### 4.8 [错误处理测试](4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/README.md)
 
 #### 4.8.1 [Testing for Improper Error Handling](4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/01-Testing_For_Improper_Error_Handling.md)
 
 #### 4.8.2 [Testing for Stack Traces](4-Web_Application_Security_Testing/08-Testing_for_Error_Handling/02-Testing_for_Stack_Traces.md)
 
-### 4.9 [Testing for Weak Cryptography](4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/README.md)
+### 4.9 [弱加密测试](4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/README.md)
 
 #### 4.9.1 [Testing for Weak Transport Layer Security](4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/01-Testing_for_Weak_Transport_Layer_Security.md)
 
@@ -240,7 +240,7 @@
 
 #### 4.9.4 [Testing for Weak Encryption](4-Web_Application_Security_Testing/09-Testing_for_Weak_Cryptography/04-Testing_for_Weak_Encryption.md)
 
-### 4.10 [Business Logic Testing](4-Web_Application_Security_Testing/10-Business_Logic_Testing/README.md)
+### 4.10 [业务逻辑测试](4-Web_Application_Security_Testing/10-Business_Logic_Testing/README.md)
 
 #### 4.10.0 [Introduction to Business Logic](4-Web_Application_Security_Testing/10-Business_Logic_Testing/00-Introduction_to_Business_Logic.md)
 
@@ -262,7 +262,7 @@
 
 #### 4.10.9 [Test Upload of Malicious Files](4-Web_Application_Security_Testing/10-Business_Logic_Testing/09-Test_Upload_of_Malicious_Files.md)
 
-### 4.11 [Client-side Testing](4-Web_Application_Security_Testing/11-Client-side_Testing/README.md)
+### 4.11 [客户端测试](4-Web_Application_Security_Testing/11-Client-side_Testing/README.md)
 
 #### 4.11.1 [Testing for DOM-Based Cross Site Scripting](4-Web_Application_Security_Testing/11-Client-side_Testing/01-Testing_for_DOM-based_Cross_Site_Scripting.md)
 
@@ -292,11 +292,11 @@
 
 #### 4.11.13 [Testing for Cross Site Script Inclusion](4-Web_Application_Security_Testing/11-Client-side_Testing/13-Testing_for_Cross_Site_Script_Inclusion.md)
 
-### 4.12 [API Testing](4-Web_Application_Security_Testing/12-API_Testing/README.md)
+### 4.12 [接口测试](4-Web_Application_Security_Testing/12-API_Testing/README.md)
 
 #### 4.12.1 [Testing GraphQL](4-Web_Application_Security_Testing/12-API_Testing/01-Testing_GraphQL.md)
 
-## 5. [Reporting](5-Reporting/README.md)
+## 5. [测试报告](5-Reporting/README.md)
 
 ## Appendix A. [Testing Tools Resource](6-Appendix/A-Testing_Tools_Resource.md)
 
