@@ -298,14 +298,14 @@
 
 ## 5. [测试报告](5-Reporting/README.md)
 
-## Appendix A. [Testing Tools Resource](6-Appendix/A-Testing_Tools_Resource.md)
+## 附录 A. [测试工具资源](6-Appendix/A-Testing_Tools_Resource.md)
 
-## Appendix B. [Suggested Reading](6-Appendix/B-Suggested_Reading.md)
+## 附录 B. [推荐读物](6-Appendix/B-Suggested_Reading.md)
 
-## Appendix C. [Fuzz Vectors](6-Appendix/C-Fuzz_Vectors.md)
+## 附录 C. [模糊测试向量](6-Appendix/C-Fuzz_Vectors.md)
 
-## Appendix D. [Encoded Injection](6-Appendix/D-Encoded_Injection.md)
+## 附录 D. [编码注入](6-Appendix/D-Encoded_Injection.md)
 
-## Appendix E. [History](6-Appendix/E-History.md)
+## 附录 E. [版本历史](6-Appendix/E-History.md)
 
-## Appendix F. [Leveraging Dev Tools](6-Appendix/F-Leveraging_Dev_Tools.md)
+## 附录 F. [Leveraging Dev Tools](6-Appendix/F-Leveraging_Dev_Tools.md)
