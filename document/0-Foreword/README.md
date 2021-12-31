@@ -1,18 +1,22 @@
-# Foreword by Eoin Keary
+# 前序 Eoin Keary
 
-The problem of insecure software is perhaps the most important technical challenge of our time. The dramatic rise of web applications enabling business, social networking etc has only compounded the requirements to establish a robust approach to writing and securing our Internet, Web Applications and Data.
+软件的不安全问题也许是我们这个时代最为重要的技术挑战。支持商业、社交网络等 Web 应用程序的急剧增长，只会使建立一种健全的方法来开发和确保我们的 Internet、Web 应用程序和数据安全性的要求更加复杂。
 
-At the Open Web Application Security Project® (OWASP®), we're trying to make the world a place where insecure software is the anomaly, not the norm. The OWASP Testing Guide has an important role to play in solving this serious issue. It is vitally important that our approach to testing software for security issues is based on the principles of engineering and science. We need a consistent, repeatable and defined approach to testing web applications. A world without some minimal standards in terms of engineering and technology is a world in chaos.
+在OWASP团队，我们努力使不安全软件成为这个世界上不正常、不规范的产品。而这份OWASP测试指南正是实现这个目
+标的重要一步。通过科学的的理论方法来进行软件测试是非常关键的。我们需要可以重复的、一致性的过程来测试web应
+用程序。没有标准的世界是混乱的世界。
 
-It goes without saying that you can't build a secure application without performing security testing on it. Testing is part of a wider approach to build a secure system. Many software development organizations do not include security testing as part of their standard software development process. What is even worse is that many security vendors deliver testing with varying degrees of quality and rigor.
+毫无疑问的是没有进行过安全测试就无法保证开发出来的是一个安全的应用程序。测试是更广泛的构建安全系统方法的一部分。然而，许多的软件开发组织的标准软件开发流程中却并不包含安全测试这一步骤。更糟糕的是，许多安全供应商提供的测试质量和严格程度各不相同。
 
-Security testing, by itself, isn't a particularly good stand alone measure of how secure an application is, because there are an infinite number of ways that an attacker might be able to make an application break, and it simply isn't possible to test them all. We can't hack ourselves secure as we only have a limited time to test and defend where an attacker does not have such constraints.
+由于攻击者能够利用无数的方法来攻破应用程序，而安全测试不可能测试全部的攻击方法，所以安全测试其自身并非是衡量
+应用安全最为有效的方法。我们无法破解自己的安全，因为我们只有有限的时间来测试和防御，而攻击者没有这种限制。
 
-In conjunction with other OWASP projects such as the Code Review Guide, the Development Guide and tools such as [OWASP ZAP](https://www.zaproxy.org/), this is a great start towards building and maintaining secure applications. This Testing Guide will show you how to verify the security of your running application. I highly recommend using these guides as part of your application security initiatives.
+结合其他 OWASP 项目，例如代码审查指南、开发指南以及[OWASP ZAP](https://www.zaproxy.org/) 等工具，这是构建和维护安全应用程序的良好开端。本测试指南将向您展示如何验证正在运行的应用程序的安全性。我强烈建议将这些指南用作应用程序安全计划的一部分。
 
-## Why OWASP?
+## 为什么需要OWASP？
 
-Creating a guide like this is a huge undertaking, requiring the expertise of hundreds of people around the world. There are many different ways to test for security flaws and this guide captures the consensus of the leading experts on how to perform this testing quickly, accurately, and efficiently. OWASP gives like minded security folks the ability to work together and form a leading practice approach to a security problem.
+写成一本这样的指南是艰巨的工作，因为它汇集了数百位世界各地的专家的专业技能。测试安全漏洞有许多不同的方式，但
+是这本指南却在如何快捷、准确、有效地测试方面获得了权威人士的一致同意。OWASP 使志同道合的安全人员能够一起工作并形成针对安全问题的领先实践方法。
 
 The importance of having this guide available in a completely free and open way is important for the foundation's mission. It gives anyone the ability to understand the techniques used to test for common security issues. Security should not be a black art or closed secret that only a few can practice. It should be open to all and not exclusive to security practitioners but also QA, Developers and Technical Managers. The project to build this guide keeps this expertise in the hands of the people who need it - you, me and anyone that is involved in building software.
 
